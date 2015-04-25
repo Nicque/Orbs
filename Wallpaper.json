@@ -1,1 +1,21 @@
-
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Nicque",
+			"url": "http://imgur.com/7RKgOH7",
+			"name": "Grass"
+		},
+		{
+			"author": "Nicque",
+			"url": "http://imgur.com/9gGgdMf",
+			"name": "Sea"
+		},
+		{
+			"author": "Nicque",
+			"url": "http://imgur.com/cfD3BhX",
+			"name": "Space"
+		}
+		 
+	]
+}
