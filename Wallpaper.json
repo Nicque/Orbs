@@ -9,7 +9,12 @@
 		{
 			"author": "Nicque",
 			"url": "http://i.imgur.com/SdcpOIx.jpg",
-			"name": "Dream"
+			"name": "Dream"{
+		},
+		{
+			"author": "Nicque",
+			"url": "http://i.imgur.com/ZJRpdP1.jpg",
+			"name": "ZigZag"
 		},
 		{
 			"author": "Nicque",
@@ -33,7 +38,7 @@
 		},
 		{
 			"author": "Nicque",
-			"url": "http://i.imgur.com/p9PVu16.jpg",
+			"url": "http://i.imgur.com/EoYuFfe.jpg",
 			"name": "Scratch"
 		},
 		{
@@ -45,11 +50,6 @@
 			"author": "Nicque",
 			"url": "http://i.imgur.com/5qwxEEJ.jpg",
 			"name": "Triom_Dark"
-		},
-		{
-			"author": "Nicque",
-			"url": "http://i.imgur.com/cfnFitC.jpg",
-			"name": "ZigZag"
 		}
 		 
 	]
